@@ -1,0 +1,163 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: 
+    
+}
+
+.mainbody, .monsterbody{
+    background-image: url(Grotbinnen.png);
+    background-size: cover;
+    
+}
+
+
+.header{
+ width: 100%;
+text-align: center;
+}
+
+.logo{
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.navigation{
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.navigation ul li{
+ display: inline-block;
+ border: 3px solid white;
+ padding: 20px;
+ margin: 20px;
+}
+
+.navigation a {
+color: white;
+text-decoration: none;
+padding: 20px;
+margin: 20px;
+
+}
+
+.navigation li:hover{
+ background-color: #2b88f7;
+ color: black;
+}
+
+.main{
+    text-align: center;
+    background-color: white;
+    width: 80%;
+    margin-top: 50px;
+    padding: 20px;
+    border: 10px solid #2b88f7;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.roosfoto, .maintext{
+    display: inline;
+    width: 75%;
+}
+
+.roosfoto{
+
+}
+
+.maintext{
+   font-family: 'Permanent Marker', cursive;
+}
+
+.maintext h1{
+ color: #2b88f7;
+}
+
+.gamebody{
+    background-image: url(Grotbinnen.png);
+    background-size: cover;
+    text-align: center;
+      margin-left: auto;
+    margin-right: auto;
+}
+
+
+.headergame{
+    text-align: center;
+    padding: 10px;
+    width: 60%;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+     margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.headergame h1{
+    font-size: 70px;
+     color: #2b88f7;
+    text-align: center;
+  
+}
+.top h1{
+  font-family: 'Permanent Marker', cursive;
+  color:  #2b88f7;
+    text-align: center;
+    font-size: 50px;
+   
+}
+
+.monsters{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+.monsters h1{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.monster1, .monster2, .monster3, .monster4, .monster5{
+    display: inline-block;
+    width: 30%;
+    height: 500px;
+    border: 3px solid white;
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    overflow: auto;
+}
+
+.sven, .knoet, .professor, .broc{
+width: 50%;
+height: 50%;
+}
+
+.sense{
+    width: 55%;
+    height: 55%;
+}
+
+.knoet{
+    width: 48%;
+    height: 48%;
+}
+
+.monster1img, .monster2img, .monster3img, .monster4img, .monster5img{
+    background-color: white;
+}
+
+.monster1, .monster2,.monster3, .monster4, .monster5{
+    background-color: #2b88f7;
+}
+
+
